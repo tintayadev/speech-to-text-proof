@@ -27,7 +27,7 @@ El programa:
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tintayadev/speech-to-text-proof
+    git clone https://github.com/tintayadev/speech-to-text-proof.git
     cd speech-to-text-proof
     ```
 
